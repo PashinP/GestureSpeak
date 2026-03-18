@@ -143,18 +143,9 @@ python src/app.py
 
 | Name           | Role                               | GitHub         |
 |----------------|------------------------------------|----------------|
-| [Your Name]    | Vision Pipeline & Documentation    | [@username]()  |
-| [Member 2]     | ML Model & Data Engineering        | [@username]()  |
-| [Member 3]     | Application & Multilingual Output  | [@username]()  |
-
----
-
-## 🎓 Academic Context
-
-> **Institution:** [Your College Name]  
-> **Department:** Computer Science & Engineering (AI & Data Science)  
-> **Year:** First Year — Group Project  
-> **Problem Statement:** Accessibility Technology — Sign Language to Speech Conversion  
+| [Pashin Pruthi]    | Vision Pipeline & Team Lead   | [@PashinP]()  |
+| [Kartik Arora]     | ML Model & Data Engineering        | [@KA-1205]()  |
+| [Pushkar]     | Application & Multilingual Output  | [@username]()  |
 
 ---
 
@@ -169,3 +160,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 *Built for accessibility — GestureSpeak, 2025*
 
 </div>
+
