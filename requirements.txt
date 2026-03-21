@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+scikit-learn
+numpy
+pandas
+matplotlib
+gTTS
+pyttsx3
+pywin32
